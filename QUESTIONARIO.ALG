@@ -6,14 +6,18 @@ Algoritmo "questionario"
 Var
 // Variáveis
 nome: caractere
+idade: inteiro
 
 Inicio
 // Inicio das Perguntas
 EscrevaL ("Programa Inicializado")
 EscrevaL ("Qual o seu nome?")
 leia (nome)
+EscrevaL ("Qual é sua idade?")
+leia (idade)
+
 
 // Inicio das respostas
 EscrevaL ("Seu nome é ", (nome))
-
+EscrevaL ("Sua idade é: ", (idade))
 Fimalgoritmo
