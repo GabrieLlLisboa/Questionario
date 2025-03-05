@@ -18,6 +18,7 @@ leia (idade)
 
 
 // Inicio das respostas
+EscrevaL ("Resumo:")
 EscrevaL ("Seu nome é ", (nome))
 EscrevaL ("Sua idade é: ", (idade))
 Fimalgoritmo
