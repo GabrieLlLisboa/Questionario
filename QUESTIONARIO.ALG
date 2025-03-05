@@ -10,7 +10,6 @@ idade: inteiro
 
 Inicio
 // Inicio das Perguntas
-EscrevaL ("Programa Inicializado")
 EscrevaL ("Qual o seu nome?")
 leia (nome)
 EscrevaL ("Qual é sua idade?")
